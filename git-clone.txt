@@ -1,0 +1,1 @@
+git clone https://github.com/Django-Team-Projects/School-Management-System.git
